@@ -60,7 +60,7 @@ google search "校名 獨招 僑生"
 
 東海大學＼台中＼ 15/4-1/7 ＼http://exam.thu.edu.tw/EXAM/54_index2.htm
 
-大同大學＼台北＼ 3/6-13/7 ＼https://recruit.ttu.edu.tw/foreign/announcement14.php。
+大同大學＼台北＼ 3/6-13/7 ＼https://recruit.ttu.edu.tw/foreign/announcement14.php
 
 聯合大學＼苗栗＼ 1/6-22/6 ＼https://enroll.nuu.edu.tw/p/405-1065-27951,c2535.php 
 
@@ -73,3 +73,5 @@ google search "校名 獨招 僑生"
 真理大學＼台北淡水＼ 19/3-2/6 ＼
 
 開南大學＼桃園＼ 15/3-30/6 ＼
+
+...仲有好多，待更新
