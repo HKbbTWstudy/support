@@ -37,6 +37,7 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2lXBvYF1d0fEc7h5XPU2N5IyF1FaVVYGDzjwzMr2794
 
+
 👉搜尋方法二：直接去學校校網睇
 
 google search "校名 獨招 僑生"
@@ -46,7 +47,7 @@ google search "校名 獨招 僑生"
 請碌到本頁最底「仍然招生中學校清單」
 
 
-#### 點知自己夠唔夠分入嗰間大學?
+### 點知自己夠唔夠分入嗰間大學?
 
 👉請睇過往收生分數統計(非正式)，睇返以往香港學生攞咩分入到咩大學
 
