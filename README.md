@@ -23,7 +23,12 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 👉絕大多數學校接受網上報名
 
-「自傳」、「讀書計劃」點寫?👉請睇「讀書計劃_自傳_寫作指南.docx」
+
+#### 「自傳」、「讀書計劃」點寫?
+
+👉請睇「讀書計劃_自傳_寫作指南.docx」 https://github.com/HKbbTWstudy/support/blob/main/讀書計劃_自傳_寫作指南.docx
+
+(撳右下角"download"掣)
 
 
 ### 收生準則
