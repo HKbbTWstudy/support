@@ -28,7 +28,7 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 👉請睇「讀書計劃_自傳_寫作指南.docx」 https://github.com/HKbbTWstudy/support/blob/main/讀書計劃_自傳_寫作指南.docx
 
-(撳右下角"download"掣)
+(電腦：撳右邊"download"掣 ＼手機:撳"view raw"右上角三粒點->download)
 
 
 ### 收生準則
