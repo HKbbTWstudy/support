@@ -8,7 +8,9 @@
 
 ### 報名資格
 
-最近連續居留港澳6年以上，並有港澳永久居留資格證件者，就可以報讀，意即持有「香港永欠性居民身分證」就合資格
+➡最近連續居留港澳6年以上，並有港澳永久居留資格證件者，意即持有「香港永欠性居民身分證」
+➡持有HKDSE/HKCEE/HKALE成績;或中五(舊制)/中六畢業或同等學歷(如無HKDSE/HKCEE/HKALE成績，建議先行向海外聯合招生委員會或學校查詢)
+
 
 source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.aspx?n=0143B72B079CDC2B&sms=074B396F3DF177C1&s=B59160B519AD8C02
 
@@ -149,3 +151,5 @@ https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2
 ...
 
 (仲有好多，待更新)
+
+本頁製作人：寶寶台灣升學支援 Telegram頻道 https://t.me/HKbbTWstudy_support
