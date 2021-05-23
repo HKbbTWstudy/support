@@ -2,7 +2,7 @@
 
 【本頁說明】
 
-由於海外聯合招生委員會 單獨招生專區(https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?combine=)網站好難filter出適當學校,
+由於海外聯合招生委員會 單獨招生專區( https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?combine= )網站好難filter出適當學校,
 加上有D學校仲有招生,但海聯網站冇update,
 所以呢度再整合一次多間仍然招收僑生(包括港澳生)嘅學校名單
 
@@ -24,7 +24,7 @@
 
 國立臺灣科技大學 ＼ 台北 ＼ 現階段無招生	
 
-國立臺北科技大學 ＼ 台北 ＼ 5月17日 - 7月4日 ＼ https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/2021-05/國立臺北科技大學110學年度簡章110學年度簡章下載.pdf
+國立臺北科技大學 ＼ 台北 ＼ 5月17日 - 7月4日 ＼ https://oia.ntut.edu.tw/p/412-1032-9098.php?Lang=zh-tw
 
 國立政治大學 ＼ 台北 ＼ 現階段無招生	
 
@@ -114,7 +114,7 @@
 
 南華大學 ＼ 嘉義 ＼ 7月5日-8月13日 ＼ http://admission2.nhu.edu.tw/admiss/recruit.php?Sn=26&class=302
 
-中華大學 ＼ 新竹 ＼ 1月1日-7月14日 ＼ http://international.chu.edu.tw/p/405-1054-18746,c908.php?Lang=zh-tw\
+中華大學 ＼ 新竹 ＼ 1月1日-7月14日 ＼ http://international.chu.edu.tw/p/405-1054-18746,c908.php?Lang=zh-tw
 
 實踐大學 ＼ 台北/高雄 ＼ 7月1日-7月15日 ＼ https://recruit.usc.edu.tw/?p=3239
 
@@ -156,7 +156,7 @@
 
 明志科技大學 ＼ 新北 ＼ 現階段無招生	
 
-文藻外語大學 ＼ 高雄 ＼ 5月3日-6月30日 ＼ https://d021.wzu.edu.tw/category/148147
+文藻外語大學 ＼ 高雄 ＼ 5月3日-6月30日 ＼(睇僑生/港澳生) https://d021.wzu.edu.tw/category/148147
 
 朝陽科技大學 ＼ 台中 ＼ 5月10日-7月16日 ＼ https://icsc.cyut.edu.tw/p/404-1008-20011.php?Lang=zh-tw
 
