@@ -119,9 +119,9 @@ http://docs.google.com/spreadsheets/d/1TnvPFcNwgXWEhbpCiZMbrhyjgmYSIKWbSkNsKI2eh
 
 ### 【費用預算】
 
-公立大學：約NTD30,000-40,000/年
+公立大學：約TWD 34,000-50,000/年 (醫學院~ 60,000)
 
-私立大學：約NTD80,000-100,000/年
+私立大學：約TWD 70,000-90,000/年 (醫學院~ 100,000)
 
 其他費用：生活費、住宿（宿舍／自己租屋）、健保、機票、防疫酒店、書簿等
 
