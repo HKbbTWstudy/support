@@ -16,7 +16,7 @@
 
 ➡最近連續居留港澳6年以上，並有港澳永久居留資格證件者，意即持有「香港永欠性居民身分證」
 
-➡持有HKDSE/HKCEE/HKALE成績;或中五(舊制)/中六畢業或同等學歷(如無HKDSE/HKCEE/HKALE成績，建議先行向海外聯合招生委員會或學校查詢)
+➡持有HKDSE/HKCEE/HKALE成績;或中五(舊制)/中六畢業或同等學歷(如持有其他公開試成績/非中學畢業，請自行查詢)
 
 
 source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.aspx?n=0143B72B079CDC2B&sms=074B396F3DF177C1&s=B59160B519AD8C02
@@ -29,7 +29,7 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 ⏹中四至中六成績表   ⏹中學畢業證書（如已畢業）   ⏹公開試成績表(DSE/HKCEE/HKALE)(如有)
 
-⏹自傳   ⏹讀書計劃   ⏹師長推薦信
+⏹自傳   ⏹讀書計劃   ⏹師長推薦信（叫上司／前上司／社工等等寫都得）
 
 👉絕大多數學校接受網上報名
 
