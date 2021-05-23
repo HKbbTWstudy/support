@@ -165,7 +165,7 @@ https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2
 
 （排名參考QS排名及各校於台灣之收生平均分排列,排名只係大約,只供參考）
 
-（學校 ＼ 地區 ＼ 報名日期 ＼ 招生網站/章程）	
+（學校 ＼ 地區 ＼ 報名日期 ＼ 招生網站(如無網站則列出章程網址)）	
 
 國立臺灣大學 ＼ 台北 ＼ 現階段無招生
 
@@ -264,6 +264,8 @@ https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2
 ####  ～～～～～～ 此處為唔錯嘅大學與普普通通嘅大學分隔線(只係大約,不要太執著) ～～～～～～
 
 .
+
+國立金門大學 ＼ 金門 ＼ 5月1日 - 6月17日 ＼ https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/2021-03/國立金門大學110學年度簡章下載.pdf
 
 靜宜大學 ＼ 台中 ＼ 4月22日 - 6月30日**校網找不同招生簡章,只有海華有 ＼ https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/2021-04/靜宜大學110學年度簡章下載_0.pdf
 
