@@ -22,7 +22,9 @@
 
 **手機開要撳"view code"
 
-台灣大學 僑生報名 Deadline整合 Spreadsheet版: **製作中
+台灣大學 僑生報名 Deadline整合 Spreadsheet版: https://raw.githubusercontent.com/HKbbTWstudy/support/main/台灣各大學截址日期.xlsx
+
+**撳"view raw"
 
 聯絡本站: 📨寶寶台灣升學支援🚌Telegram頻道 https://t.me/HKbbTWstudy_support
 
