@@ -12,7 +12,7 @@
 
 🔹🔹 快速傳送 🔹🔹
 
-本站【台灣報讀大學資訊一覽】: https://github.com/HKbbTWstudy/support/README.md
+本站【台灣報讀大學資訊一覽】: https://github.com/HKbbTWstudy/support/blob/main/README.md
 
 本站其他參考資料下載: https://github.com/HKbbTWstudy/support
 **有自傳、學習計劃寫作教學、範本
