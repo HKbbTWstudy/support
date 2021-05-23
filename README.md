@@ -37,7 +37,7 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 ### 🔹🔹 「自傳」、「讀書計劃」點寫？ 🔹🔹 
 
-👉請睇「讀書計劃_自傳_寫作指南.docx」 https://github.com/HKbbTWstudy/support/blob/main/讀書計劃_自傳_寫作指南.docx
+👉請睇【 讀書計劃_自傳_寫作指南.docx 】 https://github.com/HKbbTWstudy/support/blob/main/讀書計劃_自傳_寫作指南.docx
 
 (電腦：撳右邊"download"掣 ＼手機:撳"view raw"右上角三粒點->download)
 
@@ -53,7 +53,7 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 👉參考本站整合: https://github.com/HKbbTWstudy/support/blob/main/TW_Universities_deadline.md
 
-（或者本頁碌到最底「仍然招生中學校清單」）
+（或者本頁碌到最底【僑生入學報名 Deadlined整合】）
 
 自行搜尋方法:
 
@@ -78,10 +78,18 @@ google search "校名 獨招 僑生"
 
 🔹大學排名參考一 - wiki：https://zh.wikipedia.org/wiki/臺灣大專院校排名
 
-（基本上wiki排名榜冇嘅大學都比較易入)
+（只有大約top 30嘅大學)
 
-🔹大學排名參考二 - 台灣各大學指考(台灣嘅公開試)收生分數排名：https://rulinty.pixnet.net/blog/post/265771969
+🔹大學排名參考二 - 台灣各大學指考(台灣嘅公開試)收生分數排名(碌落下面)：https://rulinty.pixnet.net/blog/post/265771969
 
+編者提示: 如果唔揀擇，基本上DSE/會考有5科及格都有相當大機會有大學取錄，有2，3科及格都可以搏一搏，建議報排名後D嘅私立大學/科技大學
+
+🔹如果冇考過會考/DSE，或未中學畢業，可以報師大僑生先修部(僑先部)
+
+👉師大僑生先修部(僑先部) \ deadline:6月15日 \ https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/inline-files/報名步驟與填報系統使用說明書-免試僑先部(2021香港版).pdf
+
+
+如果有考過會考/DSE，有2,3科及格👉可考慮報名明年聯合分發，都相當大機會獲錄 (通常11-12月報名，2022年9月入學)
 
 —
 
@@ -108,9 +116,16 @@ http://docs.google.com/spreadsheets/d/1TnvPFcNwgXWEhbpCiZMbrhyjgmYSIKWbSkNsKI2eh
 ### 🔹🔹 費用預算 🔹🔹
 
 公立大學：約NTD30,000-40,000/年
+
 私立大學：約NTD80,000-100,000/年
+
 其他費用：生活費、住宿（宿舍／自己租屋）、健保、機票、防疫酒店、書簿等
 
+—
+
+### 🔹🔹 可唔可以揾工？ 🔹🔹
+
+👉每星期可工作20小時，寒暑假不限工時
 
 —
 
@@ -314,6 +329,10 @@ https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2
 龍華科技大學 ＼ 桃園 ＼ 3月3日-6月25日 ＼ https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/2021-03/龍華科技大學110學年度簡章下載_0.pdf
 
 慈濟科技大學 ＼ 花蓮 ＼ 5月17-6月18日 ＼ https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/2021-03/慈濟科技大學110學年度簡章下載.pdf
+
+### 其他
+
+師大僑生先修部(僑先部) \ 台北 \ 6月15日 \ https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/inline-files/報名步驟與填報系統使用說明書-免試僑先部(2021香港版).pdf
 
 -
 
