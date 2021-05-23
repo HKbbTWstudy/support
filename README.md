@@ -6,7 +6,7 @@
 
 開學日期：2021年9月
 
-### 報名資格
+### 🔹🔹 報名資格 🔹🔹
 
 ➡最近連續居留港澳6年以上，並有港澳永久居留資格證件者，意即持有「香港永欠性居民身分證」
 
@@ -16,7 +16,7 @@
 source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.aspx?n=0143B72B079CDC2B&sms=074B396F3DF177C1&s=B59160B519AD8C02
 
 
-### 如何報名?需要咩文件?
+### 🔹🔹 如何報名？需要咩文件？ 🔹🔹 
 
 一般需要以下等等（各學校不同，以學校指定為準）
 
@@ -27,19 +27,25 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 👉絕大多數學校接受網上報名
 
 
-#### 「自傳」、「讀書計劃」點寫?
+#### 🔹🔹 「自傳」、「讀書計劃」點寫？ 🔹🔹 
 
 👉請睇「讀書計劃_自傳_寫作指南.docx」 https://github.com/HKbbTWstudy/support/blob/main/讀書計劃_自傳_寫作指南.docx
 
 (電腦：撳右邊"download"掣 ＼手機:撳"view raw"右上角三粒點->download)
 
 
-### 收生準則
+### 🔹🔹 收生準則 🔹🔹 
 
 跟據公開試成績、中學成績、自傳同讀書計劃收生(所以要寫好D呀)
 
 
-### 有咩學校可以報?
+### 🔹🔹 有咩學校可以報？ 🔹🔹 
+
+👉參考本站整合: https://github.com/HKbbTWstudy/support/blob/main/TW_Universities_deadline.md
+
+（或者本頁碌到最底「仍然招生中學校清單」）
+
+自行搜尋方法:
 
 👉搜尋方法一：海外聯合招生委員會 單獨招生專區(**⚠唔齊!!有D學校呢度無show但其實仲有招生，要以學校校網為準)
 
@@ -52,22 +58,21 @@ google search "校名 獨招 僑生"
 
 睇下有冇「僑生/港澳生第二梯次招生」
 
-請碌到本頁最底「仍然招生中學校清單」
 
 
-### 點知自己夠唔夠分入嗰間大學?
+### 🔹🔹 點知自己夠唔夠分入嗰間大學? 🔹🔹 
 
 👉請睇過往收生分數統計(非正式)，睇返以往香港學生攞咩分入到咩大學
 
 亦可參考大學排名
 
-大學排名參考一 - wiki：https://zh.wikipedia.org/wiki/臺灣大專院校排名
+🔹大學排名參考一 - wiki：https://zh.wikipedia.org/wiki/臺灣大專院校排名
 
 （基本上wiki排名榜冇嘅大學都比較易入)
 
-大學排名參考二 - 台灣各大學指考(台灣嘅公開試)收生分數排名：https://rulinty.pixnet.net/blog/post/265771969
+🔹大學排名參考二 - 台灣各大學指考(台灣嘅公開試)收生分數排名：https://rulinty.pixnet.net/blog/post/265771969
 
-過往收生分數統計(非正式)
+🔹🔹 過往收生分數統計(非正式)🔹🔹 
 
 2021年入讀台灣大學成績一覽(學士+碩/博士)：
 https://docs.google.com/spreadsheets/d/1vPLOIUj0DL9sRFKEnUlVDkP--ynrKY12U6CtRMMTawk/edit#gid=0
@@ -85,14 +90,14 @@ https://docs.google.com/spreadsheets/d/1GBEaEyIH6xlqmlN-p-pXtjZZZsYbL3_IBcGiZD2I
 http://docs.google.com/spreadsheets/d/1TnvPFcNwgXWEhbpCiZMbrhyjgmYSIKWbSkNsKI2ehdQ/
 
 
-### 費用預算
+### 🔹🔹 費用預算 🔹🔹
 
 公立大學：約NTD30,000-40,000/年
 私立大學：約NTD80,000-100,000/年
 其他費用：生活費、住宿（宿舍／自己租屋）、健保、機票、防疫酒店、書簿等
 
 
-### 有用連結
+### 🔹🔹 有用連結 🔹🔹
 
 海外聯合招生委員會(海華服務基金) —— 負責招收外藉學生的機構
 
@@ -113,7 +118,7 @@ https://www.facebook.com/highwise.teco
 https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2lXBvYF1d0fEc7h5XPU2N5IyF1FaVVYGDzjwzMr2794
 
 
-### 仍然招生中學校清單 (唔齊)
+### 🔹🔹 仍然招生中學校清單 🔹🔹 (唔齊)
 
 (學校＼地區＼報名期＼招生網站)
 
