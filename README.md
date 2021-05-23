@@ -12,7 +12,7 @@
 
 —
 
-### 🔹🔹 報名資格 🔹🔹
+### 【報名資格】
 
 ➡最近連續居留港澳6年以上，並有港澳永久居留資格證件者，意即持有「香港永欠性居民身分證」
 
@@ -23,7 +23,7 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 —
 
-### 🔹🔹 如何報名？需要咩文件？ 🔹🔹 
+### 【如何報名？需要咩文件？】 
 
 一般需要以下等等（各學校不同，以學校指定為準）
 
@@ -35,7 +35,7 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 —
 
-### 🔹🔹 「自傳」、「讀書計劃」點寫？ 🔹🔹 
+### 【「自傳」、「讀書計劃」點寫？】 
 
 👉請睇【 讀書計劃_自傳_寫作指南.docx 】 https://github.com/HKbbTWstudy/support/blob/main/讀書計劃_自傳_寫作指南.docx
 
@@ -43,13 +43,13 @@ source：台灣教育部網站：https://depart.moe.edu.tw/ed2500/News_Content.a
 
 —
 
-### 🔹🔹 收生準則 🔹🔹 
+### 【收生準則】 
 
 跟據公開試成績、中學成績、自傳同讀書計劃收生(所以要寫好D呀)
 
 —
 
-### 🔹🔹 有咩學校可以報？ 🔹🔹 
+### 【有咩學校可以報？】 
 
 👉參考本站整合: https://github.com/HKbbTWstudy/support/blob/main/TW_Universities_deadline.md
 
@@ -70,7 +70,7 @@ google search "校名 獨招 僑生"
 
 —
 
-### 🔹🔹 點知自己夠唔夠分入嗰間大學? 🔹🔹 
+### 【點知自己夠唔夠分入嗰間大學？】 
 
 👉請睇過往收生分數統計(非正式)，睇返以往香港學生攞咩分入到咩大學
 
@@ -93,7 +93,7 @@ google search "校名 獨招 僑生"
 
 —
 
-🔹🔹 過往收生分數統計(非正式)🔹🔹 
+🔹 過往收生分數統計(非正式)🔹 
 
 2021年入讀台灣大學成績一覽(學士+碩/博士)：
 https://docs.google.com/spreadsheets/d/1vPLOIUj0DL9sRFKEnUlVDkP--ynrKY12U6CtRMMTawk/edit#gid=0
@@ -113,7 +113,7 @@ http://docs.google.com/spreadsheets/d/1TnvPFcNwgXWEhbpCiZMbrhyjgmYSIKWbSkNsKI2eh
 
 —
 
-### 🔹🔹 費用預算 🔹🔹
+### 【費用預算】
 
 公立大學：約NTD30,000-40,000/年
 
@@ -123,13 +123,13 @@ http://docs.google.com/spreadsheets/d/1TnvPFcNwgXWEhbpCiZMbrhyjgmYSIKWbSkNsKI2eh
 
 —
 
-### 🔹🔹 可唔可以揾工？ 🔹🔹
+### 【可唔可以揾工？】
 
 👉每星期可工作20小時，寒暑假不限工時
 
 —
 
-### 🔹🔹 有用連結 🔹🔹
+### 【有用連結】
 
 海外聯合招生委員會(海華服務基金) —— 負責招收外藉學生的機構
 
@@ -157,7 +157,7 @@ https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2
 -
 
 
-# 🔹🔹 僑生入學報名 Deadlined整合 ⭕大量學校仍然招生中⭕ 🔹🔹 
+### 【僑生入學報名 Deadlined整合 ⭕大量學校仍然招生中⭕ 】 
 
 -
 
