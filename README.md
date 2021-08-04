@@ -2,7 +2,7 @@
 
 ### 台灣各大學現正進行第二輪單獨招生(單獨招生第二梯次)
 
-By | 📨寶寶台灣升學支援🚌Telegram頻道 https://t.me/HKbbTWstudy_support
+By | 📨寶寶台灣升學支援🚌 (admin近期忙碌,暫定pm,敬請見諒🙏)
 
 —
 
