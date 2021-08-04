@@ -344,4 +344,4 @@ https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment?fbclid=IwAR294nb-1wtXE3zW2
 
 -
 
-製作人 | 📨寶寶台灣升學支援🚌Telegram頻道 https://t.me/HKbbTWstudy_support
+製作人 | 📨寶寶台灣升學支援🚌 (admin近期忙碌,暫定pm,敬請見諒🙏)
